@@ -12,5 +12,6 @@ This project focuses on analyzing OLA ride data to uncover operational inefficie
 # Dataset
 The dataset includes OLA ride information such as booking status, trip details, customer ratings, and revenue data.
 - SQL Dataset : [Dataset](https://1drv.ms/x/c/408cf3a741dc6b18/ES0YeDisuBdJoORvH-eiN9gBZltNI7AlGfoLw2ASv-cn3w?e=gOVW6L)
+- POWER BI Dataset : [Dataset](https://1drv.ms/x/c/408cf3a741dc6b18/ETTHONqVnXpIoLHCTvQ-CwMBRXGqkaHAo5sFtFxObV1CRg?e=WSPGbf)
 
 
