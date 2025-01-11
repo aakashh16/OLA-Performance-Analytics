@@ -117,5 +117,4 @@ The analysis reveals that operational efficiency can be improved by:
 - Analyze customer feedback for service improvement.
 - Compare OLA’s performance with competitors to identify market gaps.
 
-# Power BI Dashboard: [Link](https://app.powerbi.com/links/DJYylR8bkp?ctid=405ddc34-d660-46e5-b52d-bfd0be156bb5&pbi_source=linkShare)
 
