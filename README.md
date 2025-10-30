@@ -1,7 +1,5 @@
 # OLA-Performance-Analytics-Using-SQL-and-Power-BI 
 
-# Power BI Dashboard: [Link](https://app.powerbi.com/links/DJYylR8bkp?ctid=405ddc34-d660-46e5-b52d-bfd0be156bb5&pbi_source=linkShare)
-
 # Project Overview
 This project focuses on analyzing OLA ride data to uncover operational inefficiencies, improve performance, and enhance customer satisfaction. By leveraging SQL for data exploration and Power BI for visualization, the analysis provides actionable insights to support data-driven business decisions.
 
